@@ -1,0 +1,1 @@
+{"python": "python multiclipboard.py save\n", "test": "clipboard.copy(data[key])"}
